@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Academia do Programador\Aulas\Aula-3\CalculadoraSolution\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.exe
+C:\Users\User\Desktop\Academia do Programador\Aulas\Aula-3\CalculadoraSolution\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.deps.json
+C:\Users\User\Desktop\Academia do Programador\Aulas\Aula-3\CalculadoraSolution\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.runtimeconfig.json
+C:\Users\User\Desktop\Academia do Programador\Aulas\Aula-3\CalculadoraSolution\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.dll
+C:\Users\User\Desktop\Academia do Programador\Aulas\Aula-3\CalculadoraSolution\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.pdb
+C:\Users\User\Desktop\Academia do Programador\Aulas\Aula-3\CalculadoraSolution\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Academia do Programador\Aulas\Aula-3\CalculadoraSolution\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Academia do Programador\Aulas\Aula-3\CalculadoraSolution\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Academia do Programador\Aulas\Aula-3\CalculadoraSolution\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.AssemblyInfo.cs
+C:\Users\User\Desktop\Academia do Programador\Aulas\Aula-3\CalculadoraSolution\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Academia do Programador\Aulas\Aula-3\CalculadoraSolution\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.dll
+C:\Users\User\Desktop\Academia do Programador\Aulas\Aula-3\CalculadoraSolution\Calculadora.ConsoleApp\obj\Debug\net6.0\refint\Calculadora.ConsoleApp.dll
+C:\Users\User\Desktop\Academia do Programador\Aulas\Aula-3\CalculadoraSolution\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.pdb
+C:\Users\User\Desktop\Academia do Programador\Aulas\Aula-3\CalculadoraSolution\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.genruntimeconfig.cache
+C:\Users\User\Desktop\Academia do Programador\Aulas\Aula-3\CalculadoraSolution\Calculadora.ConsoleApp\obj\Debug\net6.0\ref\Calculadora.ConsoleApp.dll
